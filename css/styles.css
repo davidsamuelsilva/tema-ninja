@@ -271,7 +271,7 @@ footer aside i{
     font-size: 31px;
 }
 footer aside i#facebook{
-   color: #3b5998;
+   color: red;
 }
 
 footer aside i#facebook:hover {
@@ -280,7 +280,7 @@ footer aside i#facebook:hover {
 } 
 
 footer aside i#instagran {
-    color: #3b5998;   
+    color: red;   
 }
 
 footer aside i#instagran:hover {
@@ -289,7 +289,7 @@ footer aside i#instagran:hover {
 }
 
 footer aside i#git {
-    color: #3b5998;
+    color: red;
 }
 
 footer aside i#git:hover {
